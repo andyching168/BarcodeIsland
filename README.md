@@ -77,4 +77,4 @@ APK 位置：`app/build/outputs/apk/debug/app-debug.apk`
 
 ## 授權
 
-MIT License
+Apache License 2.0
